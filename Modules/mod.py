@@ -7,7 +7,7 @@ def add(*args):
 
 
 data=172311030   
-print("Custom module") 
+
 
 # OOP method
 class math:
@@ -28,3 +28,10 @@ class math:
             mul
             mul*=num
         return mul
+print("Custom modules")   
+if __name__=='__main__':
+
+    print("Custom modules")    
+
+# pip --> command use to show everything 
+# pip list --> show all packages and  their version
